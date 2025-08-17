@@ -1,14 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Malik Arslan Asif  
 
+🚀 **Full Stack Web Developer** | PHP (Laravel & CodeIgniter) | React.js & Node.js  
+📍 Rawalpindi, Punjab, Pakistan  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 👨‍💻 About Me  
+- 🔭 I’m currently working at **Azlaan Technologies** (SaaS products, APIs, Webhooks, Laravel & MongoDB).  
+- 💼 I worked at **Blue Arc Design & Developments** (CodeIgniter 3 & 4, Laravel, cPanel, and web servers).
+- 💬 Ask me about **Laravel, CodeIgniter, React.js, Node.js, MongoDB, SaaS, APIs, and Webhooks**.  
+- 🌱 I’m continuously improving my **DevOps, PostgreSQL, and Vue.js** skills.  
+- 🎯 Passionate about **scalable web apps, clean code, and microservices architecture**.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/malikarslanasif131/)  
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/malikarslanasif131) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malikarslanasif131) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/malikarslanasif131) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikarslanasif131@gmail.com ) 
