@@ -6,12 +6,21 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 I’m currently working at **Azlaan Technologies** (SaaS products, APIs, Webhooks, Laravel & MongoDB).  
-- 💼 I worked at **Blue Arc Design & Developments** (CodeIgniter 3 & 4, Laravel, cPanel, and web servers).
-- 💬 Ask me about **Laravel, CodeIgniter, React.js, Node.js, MongoDB, SaaS, APIs, and Webhooks**.  
-- 🌱 I’m continuously improving my **DevOps, PostgreSQL, and Vue.js** skills.  
-- 🎯 Passionate about **scalable web apps, clean code, and microservices architecture**.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/malikarslanasif131/)  
+Currently, I’m working as a **Software Developer at Azlaan Technologies**, where I:  
+- Develop & maintain **SaaS products** using **custom PHP** & **Smarty templates** with **Bootstrap** for responsive UIs.  
+- Build **feature-specific modules**, **RESTful APIs** (including mobile APIs), and **webhooks**.  
+- Contribute to **microservices architecture** with **Laravel + MongoDB**.  
+- Focus on **scalable backend solutions, clean code practices, and efficient delivery**.  
+
+💡 My expertise spans across:  
+- **Backend:** PHP, Laravel, CodeIgniter, Node.js, Express.js  
+- **Frontend:** React.js, Bootstrap, Tailwind CSS, jQuery  
+- **Databases:** MySQL, MongoDB  
+- **Others:** Drupal, SaaS Development, APIs & Integrations, Webhooks, Microservices  
+
+💬 I love **collaborating**, **problem-solving**, and **building scalable web apps**.  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/malikarslanasif131/)  
+
 
 
 ## 🌐 Socials:
